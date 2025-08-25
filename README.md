@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Bruna Adeline.
 
-- 🔭 Atualmente trabalhando com construção civil. 
+- 🔭 Me especializando para atuar na área de técnologia. 
 - 🌱 Estudando C#, phyton e MySQL.
 - 😄 Pronouns: ela/dela
 
