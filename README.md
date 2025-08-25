@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Bruna Adeline.
 
-- 🔭 Me especializando para atuar na área de técnologia. 
+- 🔭 Me especializando para atuar na área de tecnologia. 
 - 🌱 Estudando C#, phyton e MySQL.
 - 😄 Pronouns: ela/dela
 
