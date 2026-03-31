@@ -1,8 +1,8 @@
 ## Oii! Eu sou a Bruna Adeline.
 
-- 🔭 Me especializando para atuar na área de tecnologia. 
-- 🌱 Estudando C#, phyton e MySQL.
-- 😄 Pronouns: ela/dela
+🔭 Em formação para atuar na área de tecnologia
+🌱 Focada em C#, Python, MySQL, HTML5 e CSS3
+😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
