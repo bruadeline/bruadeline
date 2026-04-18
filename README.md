@@ -4,7 +4,7 @@
 - 🌱 Focada em C#, Python, MySQL, HTML5 e CSS3
 - 😄 Pronomes: ela/dela
 
-<p align="center">
+<p inline="center">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
